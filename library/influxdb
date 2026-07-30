@@ -72,12 +72,22 @@ Architectures: amd64, arm64v8
 GitCommit: 4935f4eb6b374869721872ecd7ef3e01bd228cf4
 Directory: influxdb/3.9-enterprise
 
-Tags: 3-core, 3.10-core, 3.10.5-core, core
+Tags: 3.10-core, 3.10.5-core
 Architectures: amd64, arm64v8
 GitCommit: 4935f4eb6b374869721872ecd7ef3e01bd228cf4
 Directory: influxdb/3.10-core
 
-Tags: 3-enterprise, 3.10-enterprise, 3.10.5-enterprise, enterprise
+Tags: 3.10-enterprise, 3.10.5-enterprise
 Architectures: amd64, arm64v8
 GitCommit: 4935f4eb6b374869721872ecd7ef3e01bd228cf4
 Directory: influxdb/3.10-enterprise
+
+Tags: 3-core, 3.11-core, 3.11.0-core, core
+Architectures: amd64, arm64v8
+GitCommit: 4935f4eb6b374869721872ecd7ef3e01bd228cf4
+Directory: influxdb/3.10-core
+
+Tags: 3-enterprise, 3.11-enterprise, 3.11.0-enterprise, enterprise
+Architectures: amd64, arm64v8
+GitCommit: 4935f4eb6b374869721872ecd7ef3e01bd228cf4
+Directory: influxdb/3.11-enterprise
